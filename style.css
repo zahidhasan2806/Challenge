@@ -1,0 +1,124 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    display: 100%;
+    margin:0;
+    padding:0;
+}
+.intro{
+    background-image: url(images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
+}
+
+.intro2{
+   padding: 1% 7%;
+   color: white;
+}
+.intro2 h1{
+    
+    font-weight: 700;
+    font-size:  50px; 
+}
+.intro2 h3{
+   
+    font-weight: 400;
+    font-size: 25px;
+}
+.intro2 p{
+    color: rgb(211, 206, 206);
+   font-weight: 200;
+
+
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(238, 45, 190);
+    border: 2px solid black;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.course-offer{
+    text-align: center;
+}
+.course{
+    text-align: center;
+    color: gray;
+    
+}
+.Courses{
+        display: flex;
+
+}
+.course-name{
+     width: 75%;
+    margin-left: 20px;
+    padding: 10px;
+}
+.discount{
+    display: flex;
+    background-image: url(images/discount.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    
+}
+.discount p{
+    color: sandybrown;
+    font-size: 15px;
+    font-weight: 200;
+}
+.half-width{
+    width: 50%;
+    margin: 5px;
+    padding: 10px;
+}
+.discount2{
+    display: flex;
+
+}
+input{
+    text-align: center;
+}
+button{
+   background-color: sandybrown;
+    border: 2px solid black;
+    color: black;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+}
+.thoughts{
+    display: flex;
+    margin: 5%;
+}
+.stu{
+width: 50%;
+margin-left: 5%;
+margin-right: 5%;
+box-shadow: 10px 10px 40px gray;
+padding-left: 10px;
+padding-right: 10px;
+border: 1px solid;
+}
+.apply{
+    background-image: url(images/grp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: brown solid 2px;
+    border-radius: 10px;
+    margin: 10%;
+    padding: 5% 6%;
+}
+.apply2{
+    text-align: center;
+    border: 5px;
+}
+.apply2 button{
+    color: white;
+    background-color: rgb(161, 11, 11);
+    display: 100%;
+}
